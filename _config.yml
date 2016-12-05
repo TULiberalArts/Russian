@@ -1,10 +1,10 @@
 ---
 # Program/Department Title
-title: Slavic
+title: Russian
 # Site URL (without /)
-url: https://liberalarts.temple.edu
+url: ""
 # Subdirectory (with / at only at beginning)
-baseurl: /slavic
+baseurl: /russian
 
 # Program Information
 # Short tagline for tweets (<100 characters)
