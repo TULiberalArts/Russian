@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Home
+permalink: "/"
+layout: page
 ---
 
 ## Why Study Russian?
