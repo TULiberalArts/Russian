@@ -1,12 +1,9 @@
 ---
 layout: page
+title: Home
 ---
 
-<!-- DO NOT EDIT THIS PAGE, THIS WILL BE CHANGED FROM UPSTREAM IN THE NEAR FUTURE -->
-
-<h1>Homepage!</h1>
-
-<p>## Why Study Russian?
+## Why Study Russian?
   
 Russian is a world language: The Russian Federation has a population of just under 150 million people which constitutes slightly more than 50% of the population of the former Soviet Union. Of those 150 million, slightly more than 120 million identify themselves as ethnic Russians; there are many more ethnic Russians in other countries of the former Soviet. Russia spans eleven time zones and covers about 1/8th of the world’s land surface. It is the largest country in the world, almost twice the size of the United States.
 Russia is one of the world’s leading producers of oil and natural gas and is also a top exporter of metals such as steel and primary aluminum. Russia is the largest or one of the largest producers of numerous natural resources and raw materials including petroleum, diamonds, gold, copper, manganese, uranium, silver, graphite, and platinum. Experts expect an increase in demand for American made equipment related to the energy sector, timber, and food processing equipment, as well as aircraft, air traffic control equipment, among other economic sectors. American companies have been quick to realize that Russia is a tremendous potential market for US goods and services.
@@ -30,4 +27,4 @@ The U.S. Departments of Agriculture and Commerce both list Russian as a language
 The U.S. Department of Defense “strongly supports the national effort to create a cadre of U.S. citizens with advanced, professional-level skills in languages and cultures that are critical to our national security, Russian included”.
 The U.S. Department of Energy lists Russian as the top language “for which expertise would be helpful in advancing the United States’ energy security objectives”.
 The U.S. Department of Housing and Urban Development emphasizes the need and importance of international exchange programs in Russia in carrying out efforts to share in experiences and expertise in the housing arena. Russian is listed as one of the most critical languages for national needs.
-The U.S. Department of the Interior lists Russian as a critical language in its efforts to engage in work in the Americas and in the Arctic.</p>
+The U.S. Department of the Interior lists Russian as a critical language in its efforts to engage in work in the Americas and in the Arctic.
