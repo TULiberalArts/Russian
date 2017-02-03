@@ -1,5 +1,5 @@
 - name: "Olia Prokopenko"
-  title: "_Adjunct Instructor_"
+  title: <i>Adjunct Instructor</i>
   room: "551"
   building: "Anderson Hall"
   email: "oprokop@temple.edu"
@@ -7,10 +7,10 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Kathleen Meyerowitz"
-  title: "_Adjunct Instructor_"
+  title: <i>Adjunct Instructor</i>
   room: "531"
   building: "Anderson Hall"
   email: "meyerowitz.kathleen@temple.edu"
@@ -18,4 +18,4 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: ""
+  bio: >
