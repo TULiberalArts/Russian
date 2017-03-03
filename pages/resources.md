@@ -5,6 +5,27 @@ layout: page
 published: true
 ---
 
+Chair:
+
+Cristina Gragnani
+537 Anderson Hall
+[(215) 204-1816](tel:2152041816)
+[gragnani@temple.edu](mailto:gragnani@temple.edu)
+
+Administrator:
+
+Michelle Pugliese
+429 Anderson Hall
+[(215) 204-5628](tel:2152045628)
+[pugliese@temple.edu](mailto:pugliese@temple.edu)
+
+Coordinator:
+
+Stephanie Smith
+539 Anderson Hall
+[(215) 204-1261](tel:2152041261)
+[ssmith14@temple.edu](mailto:ssmith14@temple.edu)
+
 ## Resources here here to help!
 
 ## Make Your Declaration
