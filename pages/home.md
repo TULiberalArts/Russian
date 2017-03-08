@@ -42,3 +42,29 @@ The U.S. Department of Defense “strongly supports the national effort to creat
 The U.S. Department of Energy lists Russian as the top language “for which expertise would be helpful in advancing the United States’ energy security objectives”.
 The U.S. Department of Housing and Urban Development emphasizes the need and importance of international exchange programs in Russia in carrying out efforts to share in experiences and expertise in the housing arena. Russian is listed as one of the most critical languages for national needs.
 The U.S. Department of the Interior lists Russian as a critical language in its efforts to engage in work in the Americas and in the Arctic.
+
+<div class="row row-wide">
+  <div class="col m12 l4">{% include cards/card2-image.html 
+    title=" " 
+    content=" " 
+    image="" 
+    button-link=" " 
+    button-text="Learn More" %}
+  </div>
+  <div class="row row-wide">
+    <div class="col m12 l4">{% include cards/card2-image.html 
+      title=" " 
+      content=" " 
+      image="" 
+      button-link=" " 
+      button-text="Learn More" %}
+    </div>
+    <div class="row row-wide">
+      <div class="col m12 l4">{% include cards/card2-image.html 
+        title=" " 
+        content=" " 
+        image="" 
+        button-link=" " 
+        button-text="Learn More" %}
+      </div>
+</div>
