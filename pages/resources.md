@@ -1,32 +1,33 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
 ---
 
-Chair:
+**Chair:**
 
-Cristina Gragnani
-537 Anderson Hall
-[(215) 204-1816](tel:2152041816)
-[gragnani@temple.edu](mailto:gragnani@temple.edu)
+Cristina Gragnani<br>
+537 Anderson Hall<br>
+[(215) 204-1816](tel:2152041816)<br>
+[gragnani@temple.edu](mailto:gragnani@temple.edu)<br>
 
-Administrator:
+**Administrator:**
 
-Michelle Pugliese
-429 Anderson Hall
-[(215) 204-5628](tel:2152045628)
-[pugliese@temple.edu](mailto:pugliese@temple.edu)
+Michelle Pugliese<br>
+429 Anderson Hall<br>
+[(215) 204-5628](tel:2152045628)<br>
+[pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
 
-Coordinator:
+**Coordinator:**
 
-Stephanie Smith
-539 Anderson Hall
-[(215) 204-1261](tel:2152041261)
-[ssmith14@temple.edu](mailto:ssmith14@temple.edu)
+Stephanie Smith<br>
+539 Anderson Hall<br>
+[(215) 204-1261](tel:2152041261)<br>
+[ssmith14@temple.edu](mailto:ssmith14@temple.edu)<br>
 
-## Resources here here to help!
+## Resources are here to help!
 
 ## Russian Language Course Resources
 - Russian 1001: Golosa Year 1 (5th ed.)
