@@ -1,6 +1,6 @@
 ---
 title: Home
-meta-description: 100 or so words
+meta-description: students of Russian, language
 meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
