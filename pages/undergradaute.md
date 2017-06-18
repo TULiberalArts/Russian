@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: Russian, culture, courses
 permalink: "/undergraduate/"
 layout: page
 ---
