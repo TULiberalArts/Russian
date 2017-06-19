@@ -40,7 +40,7 @@ Studies in Slavic help students achieve their learning goals, whether they want 
 
 Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture, and Service Learning. Students may choose to further their study of Russian language, culture, and society by taking elective courses in Russian for Business and Travel, Echoes of Terror in Russian Culture, Pushkin, Short Story in Translation, Women’s Voices in Russian Culture, and History of Russian Cinema. Check out some creative projects below from students in Olia Prokopenko’s Russian Comedy course!
 
-# Awards/Scholarships
+## Awards/Scholarships
 
 The FGIS department provides an annual award to exceptional students of Russian. Our students have also received support for study abroad in Russia from the American Council for Teachers of Russian (ACTR).
 
