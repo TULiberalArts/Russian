@@ -5,31 +5,27 @@ permalink: "/undergraduate/"
 layout: page
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Cristina Gragnani  
+   537 Anderson Hall  
+   [(215) 204-1816](tel:2152041816)  
+   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Cristina Gragnani<br/>
-  537 Anderson Hall<br/>
-  [(215) 204-1816](tel:2152041816)<br/>
-  [gragnani@temple.edu](mailto:gragnani@temple.edu)<br/>
-  
-  <hr>
-
-  **Administrator:**<br/>
-  Michelle Pugliese<br/>
-  429 Anderson Hal <br/>
-  [(215) 204-5628](tel:2152045628)<br/>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Stephanie Smith<br/>
-  539 Anderson Hall<br/>
-  [(215) 204-1261](tel:2152041261)<br/>
-  [ssmith14@temple.edu](mailto:ssmith14@temple.edu)<br/>
+   **Coordinator:**  
+   Stephanie Smith  
+   539 Anderson Hall    
+   [(215) 204-1261](tel:2152041261)   
+   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
 ---
 
 ## Slavic Studies
