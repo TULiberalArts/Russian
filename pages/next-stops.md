@@ -1,13 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: >-
-  transfer, apply, visit, College of Liberal Arts, careers, opprrtunity to
-  intern
 permalink: /next-stops/
 layout: page
+keywords: 'transfer, apply, visit, College of Liberal Arts, careers, opprrtunity to 'intern
+description: >-
 published: true
 ---
-
 ## Careers
 
 Russian provides students with the opportunity to pursue careers in many diverse areas. Former students of Russian are now working or have worked as engineers at NASA’s Johnson Space Center with Russian cosmonauts training for the Space Shuttle, at banks operating in international markets, as professors of Russian literature at small colleges and large universities, in major accounting firms in Russia and in the US, in large and small law firms, in press offices in Russia, Europe and America, in the State Department and Commerce Department of the federal government, in the FBI, in the Peace Corps, as English teachers in Russian high schools, and for non-profit agencies such as the Carnegie Endowment for International Peace, the National Foreign Language Center, and the US-Russia Business Council. Some former Russian students have worked for the American Council of Teachers of Russian (ACTR) and the International Research and Exchange Board (IREX) both in the US and in Russia.
