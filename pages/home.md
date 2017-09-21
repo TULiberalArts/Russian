@@ -1,13 +1,14 @@
 ---
 title: Home
-meta-description: students of Russian, language
-meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
+description: students of Russian, language
+keywords: ''
+description: >-
 feature: false
 feature-title: 
-feature-body: 
 feature-image: 
+feature-body: 
 published: true
 ---
 
