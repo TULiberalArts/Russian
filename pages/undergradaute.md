@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'Russian, culture, courses'
 permalink: /undergraduate/
 layout: page
+keywords: 'Russian, culture, courses'
+description: >-
 sidebar: true
 sidebar-content: |
   **Chair:**  
