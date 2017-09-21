@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 keywords: ''
 description: >- 
-published: 
+published: true
 ---
 ## Study Abroad in Russia
 
