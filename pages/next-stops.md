@@ -2,10 +2,9 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: 'transfer, apply, visit, College of Liberal Arts, careers, opprrtunity to 'intern
-description: >-
+keywords: 'transfer, apply, visit, College of Liberal Arts, careers, opprrtunity to intern'
+description: >-  
 published: true
-
 ---
 ## Careers
 
