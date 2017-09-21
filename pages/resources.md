@@ -1,8 +1,8 @@
 ---
 title: Resources
-meta-keywords: resources, links, post secondary Russian
 permalink: /resources/
 layout: page
+keywords: 'resources, links, post secondary Russian'
+description: >-
 published: false
 ---
-
