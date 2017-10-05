@@ -66,8 +66,9 @@ google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/russian/csv
-news-feed: https://liberalarts.temple.edu/news/russian/csv
+news-feed: https://liberalarts.temple.edu/articles/russian/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/russian/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/russian/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -117,7 +118,7 @@ prose:
             - name: page
               value: page
             - name: faculty
-              value: faculty 
+              value: faculty
             - name: faculty2
               value: faculty2
             - name: home
