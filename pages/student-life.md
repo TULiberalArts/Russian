@@ -1,10 +1,42 @@
 ---
-title: Research
-permalink: "/research/"
+title: Student Life
+permalink: "/student-life/"
 layout: page
 keywords: ''
 description: >- 
 published: true
+sidebar: true
+sidebar-content: |
+  **Chair:**  
+   Cristina Gragnani  
+   537 Anderson Hall  
+   [(215) 204-1816](tel:2152041816)  
+   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
+   
+   ___
+   
+   **Faculty Advisor:**  
+   Olia Prokopenko  
+   551 Anderson Hall   
+   [(215) 204-1768](tel:2152041768)  
+   [oprokop@temple.edu](mailto:oprokop@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   
+   ___
+
+   **Coordinator:**  
+   Stephanie Smith  
+   539 Anderson Hall    
+   [(215) 204-1261](tel:2152041261)   
+   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
+---
 ---
 ## Study Abroad in Russia
 
