@@ -7,6 +7,8 @@ description: >-
 published: true
 ---
 ## Students of Russian go on to Great Careers 
+Studying Russian helps you succeed after graduation: Students who study Russian have a higher rate of acceptance for graduate study in law school, business school, medical school, and other professional programs.
+
 Russian provides students with the opportunity to pursue careers in many diverse areas. Former students of Russian are now working or have worked as engineers at NASA’s Johnson Space Center with Russian cosmonauts training for the Space Shuttle, at banks operating in international markets, as professors of Russian literature at small colleges and large universities, in major accounting firms in Russia and in the US, in large and small law firms, in press offices in Russia, Europe and America, in the State Department and Commerce Department of the federal government, in the FBI, in the Peace Corps, as English teachers in Russian high schools, and for non-profit agencies such as the Carnegie Endowment for International Peace, the National Foreign Language Center, and the US-Russia Business Council. Some former Russian students have worked for the American Council of Teachers of Russian (ACTR) and the International Research and Exchange Board (IREX) both in the US and in Russia.
 
 The US Government needs more linguists with Russian language expertise: Commerce Department, FCC, ITC, FBI, CIA, NSA, Energy Department, State Department, among others, are all hiring!
