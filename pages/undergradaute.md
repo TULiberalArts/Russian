@@ -38,12 +38,17 @@ sidebar-content: |
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
 ---
 
-## Slavic Studies
-Studies in Slavic help students achieve their learning goals, whether they want to go on to use Russian to communicate with Russian friends, to engage in business with Russian partners, to work in government or in the media, or to study Russian culture. Courses offered include Russian Language, Russian for Business, and Russian Culture.
+## Learn about one of the World’s Most Fascinating Cultures 
+Russia is the place that gave birth and room for flights of imagination for some of the world’s most prominent writers, artists, musicians, directors of the stage and screen: Dostoevsky, Tolstoy, Chekhov, Pasternak, Akhmatova and Brodsky, Repin, Kandinsky, Malevich, Popova, Chagall, Chaikovsky, Mussorgsky, Stravinsky, Prokofiev, Shostakovich, Stanislavsky and Tarkovsky.
 
+## Personalized Instruction
+Our language program is well run with a 1:10 teacher to student ratio so all students get lots of attention from their instructors.
+There are great study abroad options: We encourage students to study abroad and recommend programs through the American Council of Teachers of Russian, Council on International Educational Exchange, and the School for Russian & Asian Studies . See Temple’s Study Abroad office or one of the Russian faculty for more information.
 
-## Courses Offered
-Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture, and Service Learning. Students may choose to further their study of Russian language, culture, and society by taking elective courses in Russian for Business and Travel, Echoes of Terror in Russian Culture, Pushkin, Short Story in Translation, Women’s Voices in Russian Culture, and History of Russian Cinema. Check out some creative projects below from students in Olia Prokopenko’s Russian Comedy course!
+## Russian Combines Well with many other Disciplines 
+Business and Russian, science and Russian, political science or history and Russian, English and Russian, another foreign language and Russian, engineering and Russian, mathematics and Russian, music and Russian. Russian provides you with opportunities your non-Russian studying classmates don’t have.
 
-## Awards/Scholarships
-The Department of French, German, Italian and Slavic provides an annual award to exceptional students of Russian. Our students have also received support for study abroad in Russia from the American Council for Teachers of Russian (ACTR).
+The alphabet is cool: It has 33 letters, 10 of which are vowels, and the last letter of the alphabet looks like a backwards R:
+Аа Бг Вв Гг Дд Ее Ёё Жж Зз Ии Йй
+Кк Лл Мм Нн Оо Пп Рр Сс Тт Уу Фф
+Хх Цц Чч Шш Щщ Ъь Ыы Ьь Ээ Юю Яя
