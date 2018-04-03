@@ -5,15 +5,14 @@ layout: home3
 description: students of Russian, language
 keywords: ''
 description: >-
-feature: false
+feature: true
 feature-title: 
-feature-image: 
-feature-body: 
+feature-image: media/St.-Basils-Cathedral.jpg
+feature-body:  >-
 published: true
 ---
 
 ## Why Study Russian?
-  
 Russian is a world language: The Russian Federation has a population of just under 150 million people which constitutes slightly more than 50% of the population of the former Soviet Union. Of those 150 million, slightly more than 120 million identify themselves as ethnic Russians; there are many more ethnic Russians in other countries of the former Soviet. Russia spans eleven time zones and covers about 1/8th of the world’s land surface. It is the largest country in the world, almost twice the size of the United States.
 Russia is one of the world’s leading producers of oil and natural gas and is also a top exporter of metals such as steel and primary aluminum. Russia is the largest or one of the largest producers of numerous natural resources and raw materials including petroleum, diamonds, gold, copper, manganese, uranium, silver, graphite, and platinum. Experts expect an increase in demand for American made equipment related to the energy sector, timber, and food processing equipment, as well as aircraft, air traffic control equipment, among other economic sectors. American companies have been quick to realize that Russia is a tremendous potential market for US goods and services.
 
