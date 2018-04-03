@@ -4,6 +4,7 @@ permalink: /undergraduate/
 layout: page
 keywords: 'Russian, culture, courses'
 description: >-
+published: true
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -11,6 +12,14 @@ sidebar-content: |
    537 Anderson Hall  
    [(215) 204-1816](tel:2152041816)  
    [gragnani@temple.edu](mailto:gragnani@temple.edu)  
+   
+   ___
+   
+   **Faculty Advisor:**  
+   Olia Prokopenko  
+   551 Anderson Hall   
+   [(215) 204-1768](tel:2152041768)  
+   [oprokop@temple.edu](mailto:oprokop@temple.edu)  
    
    ___
    
@@ -27,19 +36,14 @@ sidebar-content: |
    539 Anderson Hall    
    [(215) 204-1261](tel:2152041261)   
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
-published: true
 ---
 
 ## Slavic Studies
-
 Studies in Slavic help students achieve their learning goals, whether they want to go on to use Russian to communicate with Russian friends, to engage in business with Russian partners, to work in government or in the media, or to study Russian culture. Courses offered include Russian Language, Russian for Business, and Russian Culture.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Courses Offered
-
 Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture, and Service Learning. Students may choose to further their study of Russian language, culture, and society by taking elective courses in Russian for Business and Travel, Echoes of Terror in Russian Culture, Pushkin, Short Story in Translation, Women’s Voices in Russian Culture, and History of Russian Cinema. Check out some creative projects below from students in Olia Prokopenko’s Russian Comedy course!
 
 ## Awards/Scholarships
-
-The FGIS department provides an annual award to exceptional students of Russian. Our students have also received support for study abroad in Russia from the American Council for Teachers of Russian (ACTR).
+The Department of French, German, Italian and Slavic provides an annual award to exceptional students of Russian. Our students have also received support for study abroad in Russia from the American Council for Teachers of Russian (ACTR).
