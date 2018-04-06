@@ -47,7 +47,7 @@ We encourage students to consider applying for scholarships through the [Nationa
 - [American Councils for International Education](http://www.acrussiaabroad.org/): ACTR/ACCELS offers summer, semester, and academic year programs in Moscow, St. Petersburg, and Vladimir. ACTR also began offering programs in Almaty (Kazakhstan) in 2014.
 - [Middlebury College’s Schools Abroad](http://www.middlebury.edu/sa/russia) offers programs in Moscow, Yaroslavl’, and Irkutsk.
 - [The Council on International Educational Exchange](http://www.ciee.org/) offers summer, semester, and academic year programs in St. Petersburg.
-- [The School of Russian and Asian Studies])http://www.sras.org/) offers summer, semester, and academic year programs in Moscow, St. Petersburg, Nizhny Novgorod, Irkutsk, Khabarovsk, and Vladivostok.
+- [The School of Russian and Asian Studies](http://www.sras.org/) offers summer, semester, and academic year programs in Moscow, St. Petersburg, Nizhny Novgorod, Irkutsk, Khabarovsk, and Vladivostok.
 
 ## Awards/Scholarships
 The Department of French, German, Italian and Slavic provides an annual award to exceptional students of Russian. Our students have also received support for study abroad in Russia from the [American Council for Teachers of Russian (ACTR)](http://www.actr.org/).
