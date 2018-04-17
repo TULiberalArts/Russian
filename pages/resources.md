@@ -8,7 +8,7 @@ published: true
 ---
 
 ## Language and Learning Resources 
-**PAGE OF AUDIO RESOURCES NEEDS TO BE HOUSED ELSEWHERE, WE CAANOOT SUPPORT A PAGE OF MP3 RECORDINGS http://www.cla.temple.edu/fgis/slavic/russian-audio-resources/ 
+**PAGE OF AUDIO RESOURCES NEEDS TO BE HOUSED ELSEWHERE, WE CANNOT SUPPORT A PAGE OF MP3 RECORDINGS http://www.cla.temple.edu/fgis/slavic/russian-audio-resources/ 
 
 ### Russian Language Course Resources
 - Russian 1001: [Golosa Year 1 (5th ed.)](http://www2.gwu.edu/~slavic/golosa/audio/audio1-5e.htm)
