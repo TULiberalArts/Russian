@@ -6,9 +6,12 @@ description: students of Russian, language
 keywords: ''
 description: >-
 feature: true
-feature-title: 
+feature-title: NEED A TITLE
 feature-image: media/St.-Basils-Cathedral.jpg
 feature-body:  >-
+THIS IS A FILLER, NEED A BODY Studies in Slavic help students achieve their learning goals, whether
+they want to go on to use Russian to communicate with Russian friends, to engage in business with Russian partners, 
+to work in government or in the media, or to study Russian culture.    
 published: true
 ---
 ## Slavic Studies
