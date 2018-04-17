@@ -99,7 +99,7 @@ published: true
 - [Russian cartoon strips](http://www.comics.ru/)
 
 **Russian Culture** 
-- [Russian student newspaper](http://www.gazeta-ov.ru/)
+- Russian student newspaper (Broken Link)
 - [Site focusing on Moscow](http://all-moscow.ru/)
 - [Moscow cultural events](http://msk.afisha.ru/)
 - [Focus on Russian clothing](http://www.sarafan.ru/)
