@@ -99,10 +99,10 @@ published: true
 - [Russian cartoon strips](http://www.comics.ru/)
 
 **Russian Culture** 
-- Russian student newspaper
-- Site focusing on Moscow
-- Moscow cultural events
-- Focus on Russian clothing
+- [Russian student newspaper](http://www.gazeta-ov.ru/)
+- [Site focusing on Moscow](http://all-moscow.ru/)
+- [Moscow cultural events](http://msk.afisha.ru/)
+- [Focus on Russian clothing](http://www.sarafan.ru/)
 - [Byzantium-early Russia](http://www.fordham.edu/halsall/sbook1c.html#The%20Byzantine%20Commonwealth:%20Russia ) 
 - [Links to information on Dostoevsky](http://www.kiosek.com/dostoevsky/links.html)
 - [Absolutely irresistible Masyanya and Russian youth slang](http://www.mult.ru/)
