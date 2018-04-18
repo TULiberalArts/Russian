@@ -5,7 +5,7 @@ layout: home3
 description: students of Russian, language
 keywords: ''
 description: >-
-feature: true
+feature: 
 feature-title: NEED A TITLE
 feature-image: media/St.-Basils-Cathedral.jpg
 feature-body:  >-
