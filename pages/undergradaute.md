@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: 'Russian, culture, courses'
+keywords: 'Russian, culture, courses, personalized instruction'
 description: >-
 published: true
 sidebar: true
