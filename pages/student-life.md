@@ -2,7 +2,7 @@
 title: Student Life
 permalink: "/student-life/"
 layout: page
-keywords: ''
+keywords: 'study abroad, awards and scholarships, internships, community service'
 description: >- 
 published: true
 sidebar: true
