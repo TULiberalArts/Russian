@@ -37,6 +37,7 @@ sidebar-content: |
    [(215) 204-1261](tel:2152041261)   
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
 ---
+Temple University Russian and Slavic students learn about one of the world’s most fascinating cultures, receive [personalized instruction](#personalized-instruction) through small class sizes and learn about a [discipline](#russian-combines-well-with-many-other-disciplines) that combines well with many others.
 
 ## Learn about one of the World’s Most Fascinating Cultures 
 Russia is the place that gave birth and room for flights of imagination for some of the world’s most prominent writers, artists, musicians, directors of the stage and screen: Dostoevsky, Tolstoy, Chekhov, Pasternak, Akhmatova and Brodsky, Repin, Kandinsky, Malevich, Popova, Chagall, Chaikovsky, Mussorgsky, Stravinsky, Prokofiev, Shostakovich, Stanislavsky and Tarkovsky.
