@@ -6,6 +6,7 @@ keywords: 'language resources, links, post secondary Russian'
 description: >-
 published: true
 ---
+Interested in studying Slavic and Russian at the College of Liberal Arts but want to know more about this area of the world and its culture and language first? Take a look at some of our resources for Russian [courses](#russian-language-course-resources), Russian [language](#language-and-learning-resources) and Russian [culture](#resourcesrfor-russian-cultural-research).
 
 ## Language and Learning Resources 
 **PAGE OF AUDIO RESOURCES NEEDS TO BE HOUSED ELSEWHERE, WE CANNOT SUPPORT A PAGE OF MP3 RECORDINGS http://www.cla.temple.edu/fgis/slavic/russian-audio-resources/ 
