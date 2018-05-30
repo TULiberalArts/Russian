@@ -1,18 +1,21 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: students of Russian, language
 keywords: 'russian, course offerings, russian culture'
 description: >-
+# custom variables
 feature: true
-feature-title: NEED A TITLE 
+feature-title: NEED A TITLE
 feature-image: media/St.-Basils-Cathedral.jpg
 feature-body:  >-
   THIS IS A FILLER, NEED A BODY Studies in Slavic help students achieve their learning goals, whether
-  they want to go on to use Russian to communicate with Russian friends, to engage in business with Russian 
+  they want to go on to use Russian to communicate with Russian friends, to engage in business with Russian
   partners, to work in government or in the media, or to study Russian culture.    
-published: true
 ---
 The College of Liberal Arts offers undergraduate Slavic and Russian coursework to foster a better understanding of the Russian language and Slavic culture, society and business. Our small class sizes and dedicated faculty equipping students with deep knowledge and strong language skills.
 
@@ -22,27 +25,27 @@ Studies in Slavic help students achieve their learning goals, whether they want 
 Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture and Service Learning. Students may choose to further their study of Russian language, culture and society by taking elective courses in Russian. Please see the  [College of Liberal Arts Undergraduate bulletin](http://bulletin.temple.edu/undergraduate/courses/rus/) for a full list of Russian course offerings.
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED" 
-    content=" " 
-    image="" 
-    button-link=" " 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED"
+    content=" "
+    image=""
+    button-link=" "
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED" 
-      content=" " 
-      image="" 
-      button-link=" " 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED"
+      content=" "
+      image=""
+      button-link=" "
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED " 
-        content=" " 
-        image="" 
-        button-link=" " 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED "
+        content=" "
+        image=""
+        button-link=" "
         button-text="Learn More" %}
       </div>
 </div>

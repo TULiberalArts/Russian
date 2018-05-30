@@ -1,10 +1,13 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
+published: true
+# meta-data variables
+title: Next Stops
 keywords: 'transfer, apply, visit, College of Liberal Arts, careers, opprrtunity to intern'
 description: >-  
-published: true
+# custom variables
 ---
 Become one of the many students who’ve gone on to great careers after taking Slavic and Russian classes at Temple University. Get started by [making your declaration](#make-your-declaration), [visiting us](#visit-us), reviewing your [transfer](#thinking-of-transferring) options and [applying](#apply) in time to meet our [deadlines](#deadlines) for next semester.
 

@@ -1,10 +1,13 @@
 ---
-title: Student Life
-permalink: "/student-life/"
+# global predefined variables
 layout: page
-keywords: 'study abroad, awards and scholarships, internships, community service'
-description: >- 
+permalink: "/student-life/"
 published: true
+# meta-data variables
+title: Student Life
+keywords: 'study abroad, awards and scholarships, internships, community service'
+description: >-
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
