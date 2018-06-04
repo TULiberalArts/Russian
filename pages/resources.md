@@ -7,6 +7,8 @@ published: true
 title: Resources
 keywords: 'language resources, links, post secondary Russian'
 description: >-
+  Check out our resources for Language Courses, Russian Language Study, and Russian Cultural Research,
+  provided to you by the College of Liberal Arts at Temple University.
 # custom variables
 ---
 Interested in studying Slavic and Russian at the College of Liberal Arts but want to know more about this area of the world and its culture and language first? Take a look at some of our resources for Russian [courses](#russian-language-course-resources), Russian [language](#language-and-learning-resources) and Russian [culture](#resourcesrfor-russian-cultural-research).
