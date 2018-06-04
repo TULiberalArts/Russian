@@ -8,6 +8,7 @@ title: Home
 description: students of Russian, language
 keywords: 'russian, course offerings, russian culture'
 description: >-
+  Explore Russian language and Slavic culture at Temple University’s College of Liberal Arts by studying Russian.
 # custom variables
 feature: true
 feature-title: NEED A TITLE
