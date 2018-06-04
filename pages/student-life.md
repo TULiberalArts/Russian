@@ -1,44 +1,15 @@
 ---
 # global predefined variables
-layout: page
-permalink: "/student-life/"
+layout: tla_page
+permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
-keywords: 'study abroad, awards and scholarships, internships, community service'
 description: >-
+keywords: 'study abroad, awards and scholarships, internships, community service'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Cristina Gragnani  
-   537 Anderson Hall  
-   [(215) 204-1816](tel:2152041816)  
-   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
-   
-   ___
-   
-   **Faculty Advisor:**  
-   Olia Prokopenko  
-   551 Anderson Hall   
-   [(215) 204-1768](tel:2152041768)  
-   [oprokop@temple.edu](mailto:oprokop@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Stephanie Smith  
-   539 Anderson Hall    
-   [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
+sidebar_content: sidebars/student-life.html 
 ---
 Russia covers almost an eighth of the world and has about 150 million people, and the College of Liberal Arts sends students from its Slavic and Russian classes there every year as part of the [study abroad](#study-abroad-in-russia) program! As a student, you can also win [awards and scholarships](#awards-and-scholarships), get involved in [community service](#internships-and-community-service) and gain work experience through [internships](#internships-and-community-service).
 
