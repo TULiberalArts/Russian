@@ -7,6 +7,8 @@ published: true
 title: Next Stops
 keywords: 'transfer, apply, visit, College of Liberal Arts, careers, opprrtunity to intern'
 description: >-  
+  See where studying Russian at Temple University’s College of Liberal arts can take you!
+  Explore career benefits, make your declaration, visit us, view transfer options and deadlines, and apply!
 # custom variables
 ---
 Become one of the many students who’ve gone on to great careers after taking Slavic and Russian classes at Temple University. Get started by [making your declaration](#make-your-declaration), [visiting us](#visit-us), reviewing your [transfer](#thinking-of-transferring) options and [applying](#apply) in time to meet our [deadlines](#deadlines) for next semester.
