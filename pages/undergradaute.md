@@ -1,44 +1,15 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
 title: Undergraduate
-keywords: 'Russian, culture, courses, personalized instruction'
 description: >-
+keywords: 'Russian, culture, courses, personalized instruction'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Cristina Gragnani  
-   537 Anderson Hall  
-   [(215) 204-1816](tel:2152041816)  
-   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
-   
-   ___
-   
-   **Faculty Advisor:**  
-   Olia Prokopenko  
-   551 Anderson Hall   
-   [(215) 204-1768](tel:2152041768)  
-   [oprokop@temple.edu](mailto:oprokop@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Stephanie Smith  
-   539 Anderson Hall    
-   [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
+sidebar_content: sidebars/undergraduate.html
 ---
 Temple University Russian and Slavic students learn about one of the world’s most fascinating cultures, receive [personalized instruction](#personalized-instruction) through small class sizes and learn about a [discipline](#russian-combines-well-with-many-other-disciplines) that combines well with many others.
 
