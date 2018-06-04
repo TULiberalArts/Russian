@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  See where you can study abroad in Russia, apply for awards and scholarships, get involved in community service, 
+  and gain work experience through internships while studying Russian at Temple University’s College of Liberal Arts.
 keywords: 'study abroad, awards and scholarships, internships, community service'
 # custom variables
 sidebar: true
