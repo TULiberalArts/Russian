@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+  Learn Russian with personalized instruction and explore your options to study abroad 
+  through Temple University’s College of Liberal Arts.
 keywords: 'Russian, culture, courses, personalized instruction'
 # custom variables
 sidebar: true
