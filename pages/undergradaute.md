@@ -19,8 +19,8 @@ Temple University Russian and Slavic students learn about one of the world’s m
 Russia is the place that gave birth and room for flights of imagination for some of the world’s most prominent writers, artists, musicians, directors of the stage and screen: Dostoevsky, Tolstoy, Chekhov, Pasternak, Akhmatova and Brodsky, Repin, Kandinsky, Malevich, Popova, Chagall, Chaikovsky, Mussorgsky, Stravinsky, Prokofiev, Shostakovich, Stanislavsky and Tarkovsky.
 
 ## Personalized Instruction
-Our language program is well run with a 1:10 teacher to student ratio so all students get lots of attention from their instructors.
-There are great study abroad options: We encourage students to study abroad and recommend programs through the American Council of Teachers of Russian, Council on International Educational Exchange, and the School for Russian & Asian Studies . See Temple’s Study Abroad office or one of the Russian faculty for more information.
+Our language program is well run with a 1:10 teacher to student ratio, so all students get lots of attention from their instructors.
+There are great study abroad options: We encourage students to study abroad and recommend programs through the American Council of Teachers of Russian, Council on International Educational Exchange, and the School for Russian & Asian Studies. See Temple’s Study Abroad office or one of the Russian faculty for more information.
 
 ## Russian Combines Well with Many Other Disciplines
 Business and Russian, science and Russian, political science or history and Russian, English and Russian, another foreign language and Russian, engineering and Russian, mathematics and Russian, music and Russian. Russian provides you with opportunities your non-Russian studying classmates don’t have.
