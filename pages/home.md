@@ -18,7 +18,7 @@ feature-body:  >-
   they want to go on to use Russian to communicate with Russian friends, to engage in business with Russian
   partners, to work in government or in the media, or to study Russian culture.    
 ---
-The College of Liberal Arts offers undergraduate Slavic and Russian coursework to foster a better understanding of the Russian language and Slavic culture, society and business. Our small class sizes and dedicated faculty equipping students with deep knowledge and strong language skills.
+The College of Liberal Arts offers undergraduate Slavic and Russian coursework to foster a better understanding of the Russian language and Slavic culture, society and business. Our small class sizes and dedicated faculty equip students with deep knowledge and strong language skills.
 
 ## Slavic Studies
 Studies in Slavic help students achieve their learning goals, whether they want to go on to use Russian to communicate with Russian friends, to engage in business with Russian partners, to work in government or in the media or to study Russian culture. Courses offered include Russian Language, Russian for Business and Russian Culture.
