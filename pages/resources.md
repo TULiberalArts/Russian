@@ -112,7 +112,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - [Byzantium-early Russia](http://www.fordham.edu/halsall/sbook1c.html#The%20Byzantine%20Commonwealth:%20Russia )
 - [Links to information on Dostoevsky](http://www.kiosek.com/dostoevsky/links.html)
 - [Absolutely irresistible Masyanya and Russian youth slang](http://www.mult.ru/)
-- [Biographies of famous Russians](http://www.rulex.ru/brbs.htm)
+- [Biographies of famous Russians](www.rulex.ru/brbs.htm)
 - [Russian music downloads (pay to play)](www.zvuki.ru)
 - [Russian music downloads (pay to play)](www.pesni.ru)
 - Find the lyrics to your favorite Russian songs (Broken Link)
