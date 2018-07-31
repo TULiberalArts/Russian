@@ -11,7 +11,7 @@ description: >-
   Explore Russian language and Slavic culture at Temple University’s College of Liberal Arts by studying Russian.
 # custom variables
 feature: true
-feature-title: Explore Russian language and Slavic culture at Temple University’s College of Liberal Arts by studying Russian.
+feature-title: Explore Russian language and Slavic culture at Temple University’s College of Liberal Arts.
 feature-image: media/St.-Basils-Cathedral.jpg
 feature-body:  >-
   The College of Liberal Arts offers undergraduate Slavic and Russian coursework to foster a 
