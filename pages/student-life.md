@@ -26,6 +26,12 @@ We encourage students to consider applying for scholarships through the [Nationa
 - [The Council on International Educational Exchange](http://www.ciee.org/) offers summer, semester, and academic year programs in St. Petersburg.
 - [The School of Russian and Asian Studies](http://www.sras.org/) offers summer, semester, and academic year programs in Moscow, St. Petersburg, Nizhny Novgorod, Irkutsk, Khabarovsk, and Vladivostok.
 
+___
+
+## Courses Offered
+Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture, and Service Learning. Students may choose to further their study of Russian language, culture, and society by taking elective courses in Russian for Business and Travel, Echoes of Terror in Russian Culture, Pushkin, Short Story in Translation, Women’s Voices in Russian Culture, and History of Russian Cinema. Check out some creative projects below from students in Olia Prokopenko’s Russian Comedy course!
+<div align="center"><iframe width="600" height="300" src="https://youtu.be/wKClW_81Yog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 ## Awards and Scholarships
 The Department of French, German, Italian and Slavic provides an annual award to exceptional students of Russian. Our students have also received support for study abroad in Russia from the [American Council for Teachers of Russian (ACTR)](http://www.actr.org/).
 
