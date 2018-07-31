@@ -26,14 +26,6 @@ We encourage students to consider applying for scholarships through the [Nationa
 - [The Council on International Educational Exchange](http://www.ciee.org/) offers summer, semester, and academic year programs in St. Petersburg.
 - [The School of Russian and Asian Studies](http://www.sras.org/) offers summer, semester, and academic year programs in Moscow, St. Petersburg, Nizhny Novgorod, Irkutsk, Khabarovsk, and Vladivostok.
 
-___
-
-## Courses Offered
-Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture, and Service Learning. Students may choose to further their study of Russian language, culture, and society by taking elective courses in Russian for Business and Travel, Echoes of Terror in Russian Culture, Pushkin, Short Story in Translation, Women’s Voices in Russian Culture, and History of Russian Cinema. Check out some creative projects below from students in Olia Prokopenko’s Russian Comedy course!
-<div align="center"><<iframe width="560" height="315" src="https://www.youtube.com/embed/wKClW_81Yog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-
-___
-
 ## Awards and Scholarships
 The Department of French, German, Italian and Slavic provides an annual award to exceptional students of Russian. Our students have also received support for study abroad in Russia from the [American Council for Teachers of Russian (ACTR)](http://www.actr.org/).
 
@@ -43,3 +35,8 @@ Students have had the opportunity to intern at the Philadelphia branch of the Mi
 Russian students also have the opportunity to participate in community service by working together with the Russian faculty to recruit students from local area high schools who participate in the annual Russian Olympiada. 2016 marked the tenth year for the Delaware Valley High School Olympiada of Spoken Russian. 92 students representing five schools from Pennsylvania and New Jersey registered to compete in 2 categories: Regular Learners and Heritage Speakers. For the second time, individual learners participated in the competition, alongside the school teams coached by their experienced Russian teachers: Marian Barnum, Vlada Jackson, Konstantin Lyavdansky, Amy Wojcik.
 
 We thank all the teams and their teachers for the high oral proficiency level they demonstrated during the Olympiada. This year’s winners are: Alphonso Gonzalez (4R, Vineland High School, NJ; Russian teacher: Vlada Jackson ) and Natalya Ter-Saakov (4H, Eastern High School, NJ; independent).
+
+## Courses Offered
+Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture, and Service Learning. Students may choose to further their study of Russian language, culture, and society by taking elective courses in Russian for Business and Travel, Echoes of Terror in Russian Culture, Pushkin, Short Story in Translation, Women’s Voices in Russian Culture, and History of Russian Cinema. Check out some creative projects below from students in Olia Prokopenko’s Russian Comedy course!
+<div align="center"><<iframe width="560" height="315" src="https://www.youtube.com/embed/wKClW_81Yog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
