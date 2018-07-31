@@ -104,7 +104,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - [Russian cartoon strips](http://www.comics.ru/)
 
 **Russian Culture**
-- Russian student newspaper (Broken Link)
+- Russian student newspaper 
 - [Site focusing on Moscow](http://all-moscow.ru/)
 - [Moscow cultural events](http://msk.afisha.ru/)
 - [Focus on Russian clothing](http://www.sarafan.ru/)
