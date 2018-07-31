@@ -25,28 +25,4 @@ Studies in Slavic help students achieve their learning goals, whether they want 
 
 Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture and Service Learning. Students may choose to further their study of Russian language, culture and society by taking elective courses in Russian. Please see the  [College of Liberal Arts Undergraduate bulletin](http://bulletin.temple.edu/undergraduate/courses/rus/) for a full list of Russian course offerings.
 
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
-    title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED"
-    content=" "
-    image=""
-    button-link=" "
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED"
-      content=" "
-      image=""
-      button-link=" "
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
-        title="NOT ENOUGH PROGRAM CONTENT SHOULD PROBABLY BE REMOVED "
-        content=" "
-        image=""
-        button-link=" "
-        button-text="Learn More" %}
-      </div>
-</div>
+___
