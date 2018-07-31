@@ -19,7 +19,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - Russian 1001: [Golosa Year 1 (5th ed.)](http://www2.gwu.edu/~slavic/golosa/audio/audio1-5e.htm)
 - Russian 2001: [Golosa Year 2](http://www2.gwu.edu/~slavic/golosa/audio/audio2-4e.htm)
 - Russian 3001/3002 V Puti, 2nd Edition
-- Russian 4001/4097: Audio Resources (BROKEN LINK)
+- Russian 4001/4097: Audio Resources
 
 ### Resources for Russian Language Study
 - [Learning modules and activities](http://www.russnet.org/)
@@ -114,7 +114,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - [Biographies of famous Russians](www.rulex.ru/brbs.htm)
 - [Russian music downloads (pay to play)](www.zvuki.ru)
 - [Russian music downloads (pay to play)](www.pesni.ru)
-- Find the lyrics to your favorite Russian songs (Broken Link)
+- Find the lyrics to your favorite Russian songs 
 
 **Cyrillic Resources**
 Temple University, the College of Liberal Arts, and the Department of French, German, Italian and Russian do not endorse any commercial vendors, but provide these links merely as a convenience for students of Russian. [Russification of Macntosh](http://www.friends-partners.org/partners/rusmac/#.WtZYpHrwaUk) (for Macintosh)
