@@ -12,7 +12,7 @@ description: >-
 # custom variables
 feature: true
 feature-title: Explore Russian language and Slavic culture at Temple University’s College of Liberal Arts.
-feature-image: media/St.-Basils-Cathedral.jpg
+feature-image: media/Russian_hero_final.png
 feature-body:  >-
 ---
 ## Slavic Studies
