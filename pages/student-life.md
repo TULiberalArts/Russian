@@ -16,7 +16,7 @@ sidebar_content: sidebars/student-life.html
 Russia covers almost an eighth of the world and has about 150 million people, and the College of Liberal Arts sends students from its Slavic and Russian classes there every year as part of the [study abroad](#study-abroad-in-russia) program! As a student, you can also win [awards and scholarships](#awards-and-scholarships), get involved in [community service](#internships-and-community-service) and gain work experience through [internships](#internships-and-community-service).
 
 ## Study Abroad in Russia
-![Russia]({{site.baseurl}}/media/resized Russia.jpg){:.img-right}
+![Russia]({{site.baseurl}}/media/resized Russia.jpg){:.responsive-img .img-right}
 Although Temple University does not have its own study abroad program in Russia, Temple students do study abroad through a variety of programs in Russia for the summer, semester and entire academic year. [Temple University’s Education Abroad Office](http://studyabroad.temple.edu/) can help you plan your program. Students must complete Russian 2002 (fourth-semester Russian) or its equivalent before participating in a program overseas. Studying abroad is a life-changing experience that will give you the language and intercultural skills you need to use Russian in your career in government, business, media, education or a non-profit agency.
 
 We encourage students to consider applying for scholarships through the [National Security Education Program](http://iiepassport.org/). If you are a Pell Grant Recipient you can apply for the [Benjamin Gilman International Scholarship Program](http://www.iie.org/programs/gilman-scholarship-program). Another terrific funding opportunity is the [Boren Scholarship](https://borenawards.org/).
@@ -38,5 +38,6 @@ We thank all the teams and their teachers for the high oral proficiency level th
 
 ## Courses Offered
 Students interested in studying Russian can expect to take courses in Intermediate and Advanced Russian, Conversation and Composition, Writing with Russian Sources, Russian Culture, and Service Learning. Students may choose to further their study of Russian language, culture, and society by taking elective courses in Russian for Business and Travel, Echoes of Terror in Russian Culture, Pushkin, Short Story in Translation, Women’s Voices in Russian Culture, and History of Russian Cinema. Check out some creative projects below from students in Olia Prokopenko’s Russian Comedy course!
-<div align="center"><<iframe width="560" height="315" src="https://www.youtube.com/embed/wKClW_81Yog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/wKClW_81Yog" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
+___
