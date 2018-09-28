@@ -10,8 +10,8 @@ description: >-
   through Temple University’s College of Liberal Arts.
 keywords: 'Russian, culture, courses, personalized instruction'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 Temple University Russian and Slavic students learn about one of the world’s most fascinating cultures, receive [personalized instruction](#personalized-instruction) through small class sizes and learn about a [discipline](#russian-combines-well-with-many-other-disciplines) that combines well with many others.
 

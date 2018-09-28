@@ -10,8 +10,8 @@ description: >-
   and gain work experience through internships while studying Russian at Temple University’s College of Liberal Arts.
 keywords: 'study abroad, awards and scholarships, internships, community service'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/student-life.html 
+
+sidebar: sidebars/student-life.html 
 ---
 Russia covers almost an eighth of the world and has about 150 million people, and the College of Liberal Arts sends students from its Slavic and Russian classes there every year as part of the [study abroad](#study-abroad-in-russia) program! As a student, you can also win [awards and scholarships](#awards-and-scholarships), get involved in [community service](#internships-and-community-service) and gain work experience through [internships](#internships-and-community-service).
 
