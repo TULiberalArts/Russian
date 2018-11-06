@@ -107,7 +107,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - Russian student newspaper 
 - [Site focusing on Moscow](http://all-moscow.ru/)
 - [Moscow cultural events](http://msk.afisha.ru/)
-- [Focus on Russian clothing](http://www.sarafan.ru/)
+- [Focus on Russian clothing](http://www.sarafan.ru/bonuses-everywhere/)
 - [Byzantium-early Russia](http://www.fordham.edu/halsall/sbook1c.html#The%20Byzantine%20Commonwealth:%20Russia )
 - [Links to information on Dostoevsky](http://www.kiosek.com/dostoevsky/links.html)
 - [Absolutely irresistible Masyanya and Russian youth slang](http://www.mult.ru/)
