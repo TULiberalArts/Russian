@@ -7,7 +7,7 @@ Russian is statically generated with [Jekyll](https://jekyllrb.com) and hosted b
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/russian/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/russian/ |
 
 ## Content Structure
 
