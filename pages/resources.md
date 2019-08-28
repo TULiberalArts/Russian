@@ -57,11 +57,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - [Moscow](http://www.mos.ru/)
 - [Federal Security Bureau (former KGB)](http://www.fsb.ru/)
 
-**Russian Art**
-- [Russian Art (excluding icons)](http://www.auburn.edu/forlang/russian/art/)
-
 **Russian Icons**
-- [Russian Icons](http://www.auburn.edu/forlang/russian/icons/)
 - [Hermitage Museum in St. Petersburg](http://www.hermitage.ru/)
 - [Tretiakov Gallery in Moscow](http://www.tretyakov.ru/)
 - [Russian Paintings](http://artrussia.ru/rarities_russia)
