@@ -41,7 +41,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - [RTR Network](http://www.rtr-planeta.com/)
 
 **Russian Online Radio Broadcasts**
-- [Ekho Moskvy – Moscow Echo](http://www.echo.msk.ru/index.html)
+- Ekho Moskvy – Moscow Echo
 - [Radio Kul’tura](http://www.cultradio.ru/)
 - [Radio Mayak](http://www.radiomayak.ru/)
 - [Radio Rossii](http://www.radiorus.ru/)
