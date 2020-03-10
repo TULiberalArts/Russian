@@ -96,7 +96,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 **Jokes in Russian**
 - [Russian jokes](https://www.anekdot.ru/)
 - [Russian historical anecdotes](http://www.history.ru/anek.htm)
-- [Russian riddles and brain teasers](http://www.lora.ru/puz/)
+- [Russian riddles and brain teasers](https://lora.ru/zagadki.html)
 - [Russian cartoon strips](http://www.comics.ru/)
 
 **Russian Culture**
