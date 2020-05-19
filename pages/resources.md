@@ -28,7 +28,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - [Professional organization for teachers of foreign languages, links to information about the proficiency guidelines](http://www.actfl.org/)
 - [Dictionaries and other references from the Russian Ministry of Education](http://www.gramota.ru/)
 - [Interactive Russian grammar reference](http://www.alphadictionary.com/rusgrammar/index.html)
-- [Learning exercises for advanced learners of Russian](https://languageinstitute.wisc.edu/rails/)
+- Learning exercises for advanced learners of Russian
 - [Russian Reference Grammar from the Slavic & East European Language Resource Center](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=6)
 
 ### Resources for Russian Cultural Research
