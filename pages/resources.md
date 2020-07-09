@@ -78,7 +78,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - [Novayagazeta](https://www.novayagazeta.ru/)
 
 **Russian History**
-- [Humanities and Social Sciences Online](http://www.soviethistory.org/)- English language site about Soviet history
+- Humanities and Social Sciences Online - English language site about Soviet history
 - [Russian language site about World War II](https://www.pobediteli.ru/)
 
 **Russian Literature**
