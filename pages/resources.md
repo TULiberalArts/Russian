@@ -22,7 +22,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - Russian 4001/4097: Audio Resources
 
 ### Resources for Russian Language Study
-- [Learning modules and activities](http://www.russnet.org/)
+- Learning modules and activities
 - [Professional organization for teachers of Slavic languages, links to other resources for learning Slavic languages](http://www.aatseel.org/)
 - [Professional organization for teachers of Russian, links to information for study abroad and learning resources](http://www.actr.org/)
 - [Professional organization for teachers of foreign languages, links to information about the proficiency guidelines](http://www.actfl.org/)
