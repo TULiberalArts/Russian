@@ -64,7 +64,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 
 **News Sources in Russian**
 - [Argumenty i fakty](http://www.aif.ru/)
-- [Website like CNN](http://www.gazeta.ru/)
+- Website like CNN
 - [The Izvestiia Newspaper](http://www.izvestia.ru/)
 - [News summaries](http://www.lenta.ru/)
 - [Moscow News in Russian](http://www.mn.ru/)
