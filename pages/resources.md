@@ -52,7 +52,7 @@ Interested in studying Slavic and Russian at the College of Liberal Arts, but wa
 - [Wikipedia](http://ru.wikipedia.org/wiki)
 
 **Official Web Pages of the Russian Federation**
-- [The Russian Federation](http://www.gov.ru/)
+- The Russian Federation
 - [St. Petersburg](http://www.spb.ru/)
 - [Moscow](http://www.mos.ru/)
 - [Federal Security Bureau (former KGB)](http://www.fsb.ru/)
